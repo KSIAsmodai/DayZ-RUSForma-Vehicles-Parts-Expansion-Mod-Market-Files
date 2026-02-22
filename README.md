@@ -1,4 +1,4 @@
-This is everything you need to set up a RUSForma PARTS Trader in the Expansion Mod Market.
+This is everything you need to set up a RUSForma Vehicles PARTS Trader in the Expansion Mod Market.
 
 THIS IS A PARTS ONLY TRADER
 
