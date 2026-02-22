@@ -1,0 +1,231 @@
+{
+  "m_Version": 12,
+  "DisplayName": "RUSForma Parts - GAZ 69 Rus",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75.0,
+  "Items": [
+    {
+      "ClassName": "GAZ_69_rus_wheel",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "GAZ_69_rus_doors_driver",
+      "MaxPriceThreshold": 7000,
+      "MinPriceThreshold": 3500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "GAZ_69_rus_doors_driver_green",
+      "MaxPriceThreshold": 7000,
+      "MinPriceThreshold": 3500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "GAZ_69_rus_doors_driver_yellow",
+      "MaxPriceThreshold": 7000,
+      "MinPriceThreshold": 3500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "GAZ_69_rus_doors_codriver",
+      "MaxPriceThreshold": 7000,
+      "MinPriceThreshold": 3500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "GAZ_69_rus_doors_codriver_green",
+      "MaxPriceThreshold": 7000,
+      "MinPriceThreshold": 3500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "GAZ_69_rus_doors_codriver_yellow",
+      "MaxPriceThreshold": 7000,
+      "MinPriceThreshold": 3500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "GAZ_69_rus_doors_cargo1",
+      "MaxPriceThreshold": 7000,
+      "MinPriceThreshold": 3500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "GAZ_69_rus_doors_cargo1_green",
+      "MaxPriceThreshold": 7000,
+      "MinPriceThreshold": 3500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "GAZ_69_rus_doors_cargo1_yellow",
+      "MaxPriceThreshold": 7000,
+      "MinPriceThreshold": 3500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "GAZ_69_rus_doors_cargo2",
+      "MaxPriceThreshold": 7000,
+      "MinPriceThreshold": 3500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "GAZ_69_rus_doors_cargo2_green",
+      "MaxPriceThreshold": 7000,
+      "MinPriceThreshold": 3500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "GAZ_69_rus_doors_cargo2_yellow",
+      "MaxPriceThreshold": 7000,
+      "MinPriceThreshold": 3500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "GAZ_69_rus_doors_hood",
+      "MaxPriceThreshold": 8000,
+      "MinPriceThreshold": 4000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "GAZ_69_rus_doors_hood_green",
+      "MaxPriceThreshold": 8000,
+      "MinPriceThreshold": 4000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "GAZ_69_rus_doors_hood_yellow",
+      "MaxPriceThreshold": 8000,
+      "MinPriceThreshold": 4000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "GAZ_69_rus_doors_trunk",
+      "MaxPriceThreshold": 8000,
+      "MinPriceThreshold": 4000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "GAZ_69_rus_doors_trunk_green",
+      "MaxPriceThreshold": 8000,
+      "MinPriceThreshold": 4000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "GAZ_69_rus_doors_trunk_yellow",
+      "MaxPriceThreshold": 8000,
+      "MinPriceThreshold": 4000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "GAZ_69_rus_tent",
+      "MaxPriceThreshold": 17000,
+      "MinPriceThreshold": 8500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}
+

@@ -1,0 +1,132 @@
+{
+  "m_Version": 12,
+  "DisplayName": "RUSForma Parts - Kuban G1",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75.0,
+  "Items": [
+    {
+      "ClassName": "KubanG1_wheel",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "KubanG1_WheelDouble",
+      "MaxPriceThreshold": 4000,
+      "MinPriceThreshold": 2000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "KubanG1_doors_driver",
+      "MaxPriceThreshold": 7000,
+      "MinPriceThreshold": 3500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "KubanG1_doors_driver_green",
+      "MaxPriceThreshold": 7000,
+      "MinPriceThreshold": 3500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "KubanG1_doors_cargo2",
+      "MaxPriceThreshold": 7000,
+      "MinPriceThreshold": 3500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "KubanG1_doors_cargo2_green",
+      "MaxPriceThreshold": 7000,
+      "MinPriceThreshold": 3500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "KubanG1_doors_hood",
+      "MaxPriceThreshold": 8000,
+      "MinPriceThreshold": 4000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "KubanG1_doors_hood_green",
+      "MaxPriceThreshold": 8000,
+      "MinPriceThreshold": 4000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "KubanG1_doors_trunk",
+      "MaxPriceThreshold": 9000,
+      "MinPriceThreshold": 4500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "KubanG1_doors_trunk_green",
+      "MaxPriceThreshold": 9000,
+      "MinPriceThreshold": 4500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "KubanG1_doors_trunk1",
+      "MaxPriceThreshold": 9000,
+      "MinPriceThreshold": 4500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}
+

@@ -1,0 +1,88 @@
+{
+  "m_Version": 12,
+  "DisplayName": "RUSForma Parts - Gaz 53RF",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75.0,
+  "Items": [
+    {
+      "ClassName": "Gaz_53RF_wheel",
+      "MaxPriceThreshold": 3500,
+      "MinPriceThreshold": 1750,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Gaz_53RF_WheelDouble",
+      "MaxPriceThreshold": 4500,
+      "MinPriceThreshold": 2250,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Gaz_53RF_doors_driver",
+      "MaxPriceThreshold": 8000,
+      "MinPriceThreshold": 4000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Gaz_53RF_doors_codriver",
+      "MaxPriceThreshold": 8000,
+      "MinPriceThreshold": 4000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Gaz_53RF_doors_hood",
+      "MaxPriceThreshold": 9000,
+      "MinPriceThreshold": 4500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "Gaz_53RF_doors_trunk",
+      "MaxPriceThreshold": 9000,
+      "MinPriceThreshold": 4500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "gaz53rf_tent",
+      "MaxPriceThreshold": 17000,
+      "MinPriceThreshold": 8500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}
+

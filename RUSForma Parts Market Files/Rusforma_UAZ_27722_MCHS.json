@@ -1,0 +1,99 @@
+{
+  "m_Version": 12,
+  "DisplayName": "RUSForma Parts - UAZ 27722 MCHS",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75.0,
+  "Items": [
+    {
+      "ClassName": "UAZ_27722_mchs_wheel",
+      "MaxPriceThreshold": 3000,
+      "MinPriceThreshold": 1500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "UAZ_27722_mchs_doors_driver",
+      "MaxPriceThreshold": 8000,
+      "MinPriceThreshold": 4000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "UAZ_27722_mchs_doors_codriver",
+      "MaxPriceThreshold": 8000,
+      "MinPriceThreshold": 4000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "UAZ_27722_mchs_doors_cargo1",
+      "MaxPriceThreshold": 8000,
+      "MinPriceThreshold": 4000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "UAZ_27722_mchs_doors_cargo2",
+      "MaxPriceThreshold": 8000,
+      "MinPriceThreshold": 4000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "UAZ_27722_mchs_doors_hood",
+      "MaxPriceThreshold": 9000,
+      "MinPriceThreshold": 4500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "UAZ_27722_mchs_doors_trunk",
+      "MaxPriceThreshold": 9000,
+      "MinPriceThreshold": 4500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "UAZ_27722_mchs_migalka",
+      "MaxPriceThreshold": 12000,
+      "MinPriceThreshold": 6000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}
+

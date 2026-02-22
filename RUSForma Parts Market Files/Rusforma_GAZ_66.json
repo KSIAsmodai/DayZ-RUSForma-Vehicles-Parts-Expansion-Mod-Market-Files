@@ -1,0 +1,121 @@
+{
+  "m_Version": 12,
+  "DisplayName": "RUSForma Parts - GAZ 66",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75.0,
+  "Items": [
+    {
+      "ClassName": "GAZ_66_wheel",
+      "MaxPriceThreshold": 3500,
+      "MinPriceThreshold": 1750,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "GAZ_66_doors_driver",
+      "MaxPriceThreshold": 9000,
+      "MinPriceThreshold": 4500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "GAZ_66_doors_driver_camo",
+      "MaxPriceThreshold": 9000,
+      "MinPriceThreshold": 4500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "GAZ_66_doors_driver_zima_camo",
+      "MaxPriceThreshold": 9000,
+      "MinPriceThreshold": 4500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "GAZ_66_doors_codriver",
+      "MaxPriceThreshold": 9000,
+      "MinPriceThreshold": 4500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "GAZ_66_doors_codriver_camo",
+      "MaxPriceThreshold": 9000,
+      "MinPriceThreshold": 4500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "GAZ_66_doors_codriver_zima_camo",
+      "MaxPriceThreshold": 9000,
+      "MinPriceThreshold": 4500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "GAZ_66_doors_cargo3",
+      "MaxPriceThreshold": 8000,
+      "MinPriceThreshold": 4000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "GAZ_66_doors_cargo4",
+      "MaxPriceThreshold": 8000,
+      "MinPriceThreshold": 4000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "GAZ_66_doors_trunk",
+      "MaxPriceThreshold": 9000,
+      "MinPriceThreshold": 4500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}
+

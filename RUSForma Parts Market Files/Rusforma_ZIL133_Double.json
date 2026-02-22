@@ -1,0 +1,165 @@
+{
+  "m_Version": 12,
+  "DisplayName": "RUSForma Parts - ZIL133 Double",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75.0,
+  "Items": [
+    {
+      "ClassName": "ZIL133_double_wheel",
+      "MaxPriceThreshold": 5000,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ZIL133_double_wheelDouble",
+      "MaxPriceThreshold": 6000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ZIL133_double_doors_driver",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 5000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ZIL133_double_doors_driver_green",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 5000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ZIL133_double_doors_codriver",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 5000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ZIL133_double_doors_codriver_green",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 5000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ZIL133_double_doors_cargo1",
+      "MaxPriceThreshold": 9000,
+      "MinPriceThreshold": 4500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ZIL133_double_doors_cargo1_green",
+      "MaxPriceThreshold": 9000,
+      "MinPriceThreshold": 4500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ZIL133_double_doors_cargo2",
+      "MaxPriceThreshold": 9000,
+      "MinPriceThreshold": 4500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ZIL133_double_doors_cargo2_green",
+      "MaxPriceThreshold": 9000,
+      "MinPriceThreshold": 4500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ZIL133_double_doors_hood",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 5000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ZIL133_double_doors_hood_green",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 5000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ZIL133_double_doors_trunk",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 5000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ZIL133_double_tent",
+      "MaxPriceThreshold": 20000,
+      "MinPriceThreshold": 10000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}
+

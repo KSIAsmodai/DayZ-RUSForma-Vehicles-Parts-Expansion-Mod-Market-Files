@@ -1,0 +1,121 @@
+{
+  "m_Version": 12,
+  "DisplayName": "RUSForma Parts - ZIL 130 AC40",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75.0,
+  "Items": [
+    {
+      "ClassName": "ZIL_130_ac40_wheel",
+      "MaxPriceThreshold": 5000,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ZIL_130_ac40_WheelDouble",
+      "MaxPriceThreshold": 6000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ZIL_130_ac40_doors_driver",
+      "MaxPriceThreshold": 11000,
+      "MinPriceThreshold": 5500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ZIL_130_ac40_doors_codriver",
+      "MaxPriceThreshold": 11000,
+      "MinPriceThreshold": 5500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ZIL_130_ac40_doors_cargo1",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 5000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ZIL_130_ac40_doors_cargo2",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 5000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ZIL_130_ac40_doors_hood",
+      "MaxPriceThreshold": 12000,
+      "MinPriceThreshold": 6000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ZIL_130_ac40_doors_trunk",
+      "MaxPriceThreshold": 12000,
+      "MinPriceThreshold": 6000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ZIL_130_ac40_doors_cargo3",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 5000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "ZIL_130_ac40_doors_cargo4",
+      "MaxPriceThreshold": 10000,
+      "MinPriceThreshold": 5000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}
+

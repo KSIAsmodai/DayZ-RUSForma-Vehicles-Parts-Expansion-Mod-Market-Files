@@ -1,0 +1,154 @@
+{
+  "m_Version": 12,
+  "DisplayName": "RUSForma Parts - F1 Pickup",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75.0,
+  "Items": [
+    {
+      "ClassName": "F1_Pickup_wheel",
+      "MaxPriceThreshold": 2500,
+      "MinPriceThreshold": 1250,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "F1_Pickup_doors_driver",
+      "MaxPriceThreshold": 6000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "F1_Pickup_doors_driver_green",
+      "MaxPriceThreshold": 6000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "F1_Pickup_doors_driver_black",
+      "MaxPriceThreshold": 6000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "F1_Pickup_doors_codriver",
+      "MaxPriceThreshold": 6000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "F1_Pickup_doors_codriver_green",
+      "MaxPriceThreshold": 6000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "F1_Pickup_doors_codriver_black",
+      "MaxPriceThreshold": 6000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "F1_Pickup_doors_hood",
+      "MaxPriceThreshold": 7000,
+      "MinPriceThreshold": 3500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "F1_Pickup_doors_hood_green",
+      "MaxPriceThreshold": 7000,
+      "MinPriceThreshold": 3500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "F1_Pickup_doors_hood_black",
+      "MaxPriceThreshold": 7000,
+      "MinPriceThreshold": 3500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "F1_Pickup_doors_trunk",
+      "MaxPriceThreshold": 7000,
+      "MinPriceThreshold": 3500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "F1_Pickup_doors_trunk_green",
+      "MaxPriceThreshold": 7000,
+      "MinPriceThreshold": 3500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "F1_Pickup_doors_trunk_black",
+      "MaxPriceThreshold": 7000,
+      "MinPriceThreshold": 3500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}
+

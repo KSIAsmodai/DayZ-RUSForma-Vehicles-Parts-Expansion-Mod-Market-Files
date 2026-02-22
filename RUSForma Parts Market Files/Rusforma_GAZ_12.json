@@ -1,0 +1,220 @@
+{
+  "m_Version": 12,
+  "DisplayName": "RUSForma Parts - GAZ 12",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75.0,
+  "Items": [
+    {
+      "ClassName": "GAZ_12_wheel",
+      "MaxPriceThreshold": 2000,
+      "MinPriceThreshold": 1000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "GAZ_12_doors_driver",
+      "MaxPriceThreshold": 5000,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "GAZ_12_doors_driver_white",
+      "MaxPriceThreshold": 5000,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "GAZ_12_doors_driver_kombi",
+      "MaxPriceThreshold": 5000,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "GAZ_12_doors_codriver",
+      "MaxPriceThreshold": 5000,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "GAZ_12_doors_codriver_white",
+      "MaxPriceThreshold": 5000,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "GAZ_12_doors_codriver_kombi",
+      "MaxPriceThreshold": 5000,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "GAZ_12_doors_cargo1",
+      "MaxPriceThreshold": 5000,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "GAZ_12_doors_cargo1_white",
+      "MaxPriceThreshold": 5000,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "GAZ_12_doors_cargo1_kombi",
+      "MaxPriceThreshold": 5000,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "GAZ_12_doors_cargo2",
+      "MaxPriceThreshold": 5000,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "GAZ_12_doors_cargo2_white",
+      "MaxPriceThreshold": 5000,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "GAZ_12_doors_cargo2_kombi",
+      "MaxPriceThreshold": 5000,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "GAZ_12_doors_hood",
+      "MaxPriceThreshold": 6000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "GAZ_12_doors_hood_white",
+      "MaxPriceThreshold": 6000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "GAZ_12_doors_hood_kombi",
+      "MaxPriceThreshold": 6000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "GAZ_12_doors_trunk",
+      "MaxPriceThreshold": 6000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "GAZ_12_doors_trunk_white",
+      "MaxPriceThreshold": 6000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "GAZ_12_doors_trunk_kombi",
+      "MaxPriceThreshold": 6000,
+      "MinPriceThreshold": 3000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}
+

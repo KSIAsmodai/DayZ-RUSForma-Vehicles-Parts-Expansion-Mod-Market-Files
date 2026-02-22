@@ -1,0 +1,165 @@
+{
+  "m_Version": 12,
+  "DisplayName": "RUSForma Parts - Kamaz 4310 RUS",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75.0,
+  "Items": [
+    {
+      "ClassName": "kamaz_4310RUS_wheel",
+      "MaxPriceThreshold": 5000,
+      "MinPriceThreshold": 2500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "kamaz_4310RUS_doors_driver",
+      "MaxPriceThreshold": 11000,
+      "MinPriceThreshold": 5500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "kamaz_4310RUS_doors_driver_orange",
+      "MaxPriceThreshold": 11000,
+      "MinPriceThreshold": 5500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "kamaz_4310RUS_doors_driver_blue",
+      "MaxPriceThreshold": 11000,
+      "MinPriceThreshold": 5500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "kamaz_4310RUS_doors_driver_oon",
+      "MaxPriceThreshold": 11000,
+      "MinPriceThreshold": 5500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "kamaz_4310RUS_doors_codriver",
+      "MaxPriceThreshold": 11000,
+      "MinPriceThreshold": 5500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "kamaz_4310RUS_doors_codriver_orange",
+      "MaxPriceThreshold": 11000,
+      "MinPriceThreshold": 5500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "kamaz_4310RUS_doors_codriver_blue",
+      "MaxPriceThreshold": 11000,
+      "MinPriceThreshold": 5500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "kamaz_4310RUS_doors_codriver_oon",
+      "MaxPriceThreshold": 11000,
+      "MinPriceThreshold": 5500,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "kamaz_4310RUS_doors_hood",
+      "MaxPriceThreshold": 12000,
+      "MinPriceThreshold": 6000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "kamaz_4310RUS_doors_hood_orange",
+      "MaxPriceThreshold": 12000,
+      "MinPriceThreshold": 6000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "kamaz_4310RUS_doors_hood_blue",
+      "MaxPriceThreshold": 12000,
+      "MinPriceThreshold": 6000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "kamaz_4310RUS_doors_hood_oon",
+      "MaxPriceThreshold": 12000,
+      "MinPriceThreshold": 6000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    },
+    {
+      "ClassName": "kamaz_4310RUS_tent",
+      "MaxPriceThreshold": 22000,
+      "MinPriceThreshold": 11000,
+      "SellPricePercent": -1,
+      "MaxStockThreshold": 1,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": []
+    }
+  ]
+}
+
