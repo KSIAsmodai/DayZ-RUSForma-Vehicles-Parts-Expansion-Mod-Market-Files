@@ -351,49 +351,6 @@
             <child lootmax="0" lootmin="0" max="1" min="0" type="ZIL_130_green"/>
             <child lootmax="0" lootmin="0" max="1" min="0" type="ZIL_130_kung"/>
             <child lootmax="0" lootmin="0" max="1" min="0" type="ZIL_130_kung_green"/>
-			<child lootmax="0" lootmin="0" max="1" min="0" type="A2_KamAZ_Covered"/>
-			<child lootmax="0" lootmin="0" max="1" min="0" type="A2_KamAZ_Open"/>
-			<child lootmax="0" lootmin="0" max="1" min="0" type="A2_KamAZ_Refuel"/>
-			<child lootmax="0" lootmin="0" max="1" min="0" type="A2_KamAZ_Refuel_CDF"/>
-			<child lootmax="0" lootmin="0" max="1" min="0" type="A2_KamAZ_Refuel_CHKDZ"/>
-			<child lootmax="0" lootmin="0" max="1" min="0" type="A2_KamAZ_Reammo"/>
-			<child lootmax="0" lootmin="0" max="1" min="0" type="A2_KamAZ_Covered_Blue"/>
-			<child lootmax="0" lootmin="0" max="1" min="0" type="A2_KamAZ_Open_Blue"/>
-			<child lootmax="0" lootmin="0" max="1" min="0" type="A2_KamAZ_Refuel_Blue"/>
-			<child lootmax="0" lootmin="0" max="1" min="0" type="A2_KamAZ_Covered_Red"/>
-			<child lootmax="0" lootmin="0" max="1" min="0" type="A2_KamAZ_Open_Red"/>
-			<child lootmax="0" lootmin="0" max="1" min="0" type="A2_KamAZ_Refuel_Red"/>
-			<child lootmax="0" lootmin="0" max="1" min="0" type="A2_KamAZ_Covered_White"/>
-			<child lootmax="0" lootmin="0" max="1" min="0" type="A2_KamAZ_Open_White"/>
-			<child lootmax="0" lootmin="0" max="1" min="0" type="A2_KamAZ_Refuel_White"/>
-			<child lootmax="0" lootmin="0" max="1" min="0" type="A2_KamAZ_Covered_Desert"/>
-			<child lootmax="0" lootmin="0" max="1" min="0" type="A2_KamAZ_Open_Desert"/>
-			<child lootmax="0" lootmin="0" max="1" min="0" type="A2_KamAZ_Refuel_Desert"/>
-			<child lootmax="0" lootmin="0" max="1" min="0" type="A2_KamAZ_Covered_Olive"/>
-			<child lootmax="0" lootmin="0" max="1" min="0" type="A2_KamAZ_Open_Olive"/>
-			<child lootmax="0" lootmin="0" max="1" min="0" type="A2_KamAZ_Refuel_Olive"/>
-			<child lootmax="0" lootmin="0" max="1" min="0" type="A2_OA_MTVR_Wdl"/>
-			<child lootmax="0" lootmin="0" max="1" min="0" type="A2_OA_MTVR_Des"/>
-			<child lootmax="0" lootmin="0" max="1" min="0" type="A2_OA_MTVR_Open_Wdl"/>
-			<child lootmax="0" lootmin="0" max="1" min="0" type="A2_OA_MTVR_Open_Des"/>
-			<child lootmax="0" lootmin="0" max="1" min="0" type="A2_OA_MTVR_Fuel_Wdl"/>
-			<child lootmax="0" lootmin="0" max="1" min="0" type="A2_OA_MTVR_Fuel_Des"/>
-			<child lootmax="0" lootmin="0" max="1" min="0" type="A2_OA_MTVR_Repair_Wdl"/>
-			<child lootmax="0" lootmin="0" max="1" min="0" type="A2_OA_MTVR_Repair_Des"/>
-			<child lootmax="0" lootmin="0" max="1" min="0" type="A2_OA_MTVR_Reammo_Wdl"/>
-			<child lootmax="0" lootmin="0" max="1" min="0" type="A2_OA_MTVR_Reammo_Des"/>
-			<child lootmax="0" lootmin="0" max="1" min="0" type="A2_OA_ACR_T810_v_ACR_Wdl"/>
-			<child lootmax="0" lootmin="0" max="1" min="0" type="A2_OA_ACR_T810_v_ACR_Des"/>
-			<child lootmax="0" lootmin="0" max="1" min="0" type="A2_OA_ACR_T810_v_ACR_Wdl_Tarpless"/>
-			<child lootmax="0" lootmin="0" max="1" min="0" type="A2_OA_ACR_T810_v_ACR_Des_Tarpless"/>
-			<child lootmax="0" lootmin="0" max="1" min="0" type="A2_OA_ACR_T810_Refuel_ACR_Wdl"/>
-			<child lootmax="0" lootmin="0" max="1" min="0" type="A2_OA_ACR_T810_Refuel_ACR_Des"/>
-			<child lootmax="0" lootmin="0" max="1" min="0" type="A2_OA_ACR_T810_Repair_ACR_Wdl"/>
-			<child lootmax="0" lootmin="0" max="1" min="0" type="A2_OA_ACR_T810_Repair_ACR_Des"/>
-			<child lootmax="0" lootmin="0" max="1" min="0" type="A2_OA_ACR_T810_Reammo_ACR_Wdl"/>
-			<child lootmax="0" lootmin="0" max="1" min="0" type="A2_OA_ACR_T810_Reammo_ACR_Des"/>
-			<child lootmax="0" lootmin="0" max="1" min="0" type="A2_OA_ACR_T810_vp2_ACR_Wdl"/>
-			<child lootmax="0" lootmin="0" max="1" min="0" type="A2_OA_ACR_T810_vp2_ACR_Des"/>
         </children>
     </event>
     <event name="VehicleMilitary"> <!-- was 3,1,8 too many -->
