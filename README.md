@@ -2,7 +2,7 @@ This is everything you need to set up RUSForma Vehicles in Chernarus. All the ty
 
 THIS IS RUSForma VEHICLES ONLY. This repository does not have RUSForma Historical Vehicles or RUSForma Motorcycles. I will add those eventually.
 
-I HAVE NOT ADJUSTED PRICING YET
+I HAVE NOT ADJUSTED PRICING YET or ADDED TO CFGEVENTSPAWNS YET
 
 Note on Parts & Parts Trader:
 There are a shit ton of vehicle parts so I created a category for each vehicle that includes its variant parts. This way the Trader shows the vehicles in line item choices that you can open rather than loading 400,000 parts on your screen all at once, lol.
