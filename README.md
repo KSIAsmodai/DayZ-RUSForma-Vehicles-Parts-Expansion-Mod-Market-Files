@@ -1,4 +1,4 @@
-This is everything you need to set up RUSForma Vehicles in Chernarus. All the types errors, non-existent vehicle additions & incorrect variant names (mostly from other RUSForma mods) that were in files I got in the wild have been fixed (to my knowledge, lol).
+This is everything you need to set up RUSForma Vehicles in Chernarus and sell them in Expansion Market. All the types errors, non-existent vehicle additions & incorrect variant names (mostly from other RUSForma mods) that were in files I got in the wild have been fixed (to my knowledge, lol).
 
 THIS IS RUSForma VEHICLES ONLY. This repository does not have RUSForma Historical Vehicles or RUSForma Motorcycles. I will add those eventually.
 
