@@ -1,5 +1,5 @@
 <spawnabletypes>
-    	<type name="Niva2329">
+	<type name="Niva2329">
 		<attachments chance="1.00">
 			<item name="CarRadiator" chance="0.25" />
 		</attachments>
@@ -1878,7 +1878,7 @@
 			<item name="ZIL_131_Wheel" chance="0.60" />
 		</attachments>
 		<attachments chance="1.00">
-		    	<item name="ZIL_131_Wheel" chance="0.60" />
+			<item name="ZIL_131_Wheel" chance="0.60" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="ZIL_131_Wheel" chance="0.60" />
@@ -1940,7 +1940,7 @@
 			<item name="ZIL_131_Wheel" chance="0.60" />
 		</attachments>
 		<attachments chance="1.00">
-		    	<item name="ZIL_131_Wheel" chance="0.60" />
+			<item name="ZIL_131_Wheel" chance="0.60" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="ZIL_131_Wheel" chance="0.60" />
@@ -3307,7 +3307,7 @@
 			<item name="kraz_255B_tent" chance="0.60" />
 		</attachments>
 	</type>
-      	<type name="kraz_255B_kung">
+	<type name="kraz_255B_kung">
 		<attachments chance="1.00">
 			<item name="CarRadiator" chance="0.25" />
 		</attachments>
@@ -3360,7 +3360,7 @@
 			<item name="kraz_255B_Wheel" chance="0.60" />
 		</attachments>
 	</type>
-      	<type name="kraz_255B_kung_blue">
+	<type name="kraz_255B_kung_blue">
 		<attachments chance="1.00">
 			<item name="CarRadiator" chance="0.25" />
 		</attachments>
@@ -4080,7 +4080,7 @@
 			<item name="vaz_2106_RF_wheel" chance="0.60" />
 		</attachments>
 	</type>
-    	<type name="vaz_2106_RF_white">
+	<type name="vaz_2106_RF_white">
 		<attachments chance="1.00">
 			<item name="CarRadiator" chance="0.25" />
 		</attachments>
@@ -4127,7 +4127,7 @@
 			<item name="vaz_2106_RF_wheel" chance="0.60" />
 		</attachments>
 	</type>
-  	<type name="vaz_2106_RF_wine">
+	<type name="vaz_2106_RF_wine">
 		<attachments chance="1.00">
 			<item name="CarRadiator" chance="0.25" />
 		</attachments>
@@ -4174,7 +4174,7 @@
 			<item name="vaz_2106_RF_wheel" chance="0.60" />
 		</attachments>
 	</type>
-  	<type name="vaz_2106_RF_yellow">
+	<type name="vaz_2106_RF_yellow">
 		<attachments chance="1.00">
 			<item name="CarRadiator" chance="0.25" />
 		</attachments>
@@ -4827,7 +4827,7 @@
 			<item name="azlk_400_wheel" chance="0.60" />
 		</attachments>
 	</type>
-  	<type name="BRDM2_RF">
+	<type name="BRDM2_RF">
 		<attachments chance="1.00">
 			<item name="TruckBattery" chance="0.25" />
 		</attachments>
@@ -5491,7 +5491,7 @@
 		<attachments chance="1.00">
 			<item name="GAZ21_Volga_doors_trunk" chance="0.60" />
 		</attachments>
- 		<attachments chance="1.00">
+		<attachments chance="1.00">
 			<item name="GAZ21_roof_rack" chance="0.60" />
 		</attachments>
 		<attachments chance="1.00">
@@ -5544,7 +5544,7 @@
 		<attachments chance="1.00">
 			<item name="GAZ21_Volga_doors_trunk_black" chance="0.60" />
 		</attachments>
- 		<attachments chance="1.00">
+		<attachments chance="1.00">
 			<item name="GAZ21_roof_rack_black" chance="0.60" />
 		</attachments>
 		<attachments chance="1.00">
@@ -5597,7 +5597,7 @@
 		<attachments chance="1.00">
 			<item name="GAZ21_Volga_doors_trunk_green" chance="0.60" />
 		</attachments>
- 		<attachments chance="1.00">
+		<attachments chance="1.00">
 			<item name="GAZ21_roof_rack_green" chance="0.60" />
 		</attachments>
 		<attachments chance="1.00">
@@ -5705,7 +5705,8 @@
 		</attachments>
 		<attachments chance="1.00">
 			<item name="artillery_tractor_doors_trunk_camo" chance="0.60" />
-		</attachments>		<attachments chance="1.00">
+		</attachments>
+		<attachments chance="1.00">
 			<item name="artillery_tractor_wheel" chance="0.60" />
 		</attachments>
 		<attachments chance="1.00">
@@ -5997,7 +5998,7 @@
 		<attachments chance="1.00">
 			<item name="Gaz_53RF_WheelDouble" chance="0.60" />
 		</attachments>
-	</type>  
+	</type>
 	<type name="Gaz_53RF_petrol_truck">
 		<attachments chance="1.00">
 			<item name="CarRadiator" chance="0.25" />
@@ -7221,7 +7222,7 @@
 			<item name="kamaz_4310RUS_wheel" chance="0.60" />
 		</attachments>
 	</type>
-        <type name="VAZ_21099R">
+	<type name="VAZ_21099R">
 		<attachments chance="1.00">
 			<item name="CarRadiator" chance="0.25" />
 		</attachments>
@@ -7270,8 +7271,8 @@
 		<attachments chance="1.00">
 			<item name="VAZ_21099R_wheel" chance="0.60" />
 		</attachments>
-	</type>  
-        <type name="VAZ_21099R_black">
+	</type>
+	<type name="VAZ_21099R_black">
 		<attachments chance="1.00">
 			<item name="CarRadiator" chance="0.25" />
 		</attachments>
@@ -7321,7 +7322,7 @@
 			<item name="VAZ_21099R_wheel" chance="0.60" />
 		</attachments>
 	</type>
-        <type name="VAZ_21099R_white">
+	<type name="VAZ_21099R_white">
 		<attachments chance="1.00">
 			<item name="CarRadiator" chance="0.25" />
 		</attachments>
@@ -7371,7 +7372,7 @@
 			<item name="VAZ_21099R_wheel" chance="0.60" />
 		</attachments>
 	</type>
-        <type name="VAZ_21099R_blue">
+	<type name="VAZ_21099R_blue">
 		<attachments chance="1.00">
 			<item name="CarRadiator" chance="0.25" />
 		</attachments>
@@ -7421,7 +7422,7 @@
 			<item name="VAZ_21099R_wheel" chance="0.60" />
 		</attachments>
 	</type>
-        <type name="F1_Pickup">
+	<type name="F1_Pickup">
 		<attachments chance="1.00">
 			<item name="CarRadiator" chance="0.25" />
 		</attachments>
@@ -7465,7 +7466,7 @@
 			<item name="F1_Pickup_wheel" chance="0.60" />
 		</attachments>
 	</type>
-        <type name="F1_Pickup_green">
+	<type name="F1_Pickup_green">
 		<attachments chance="1.00">
 			<item name="CarRadiator" chance="0.25" />
 		</attachments>
@@ -7509,7 +7510,7 @@
 			<item name="F1_Pickup_wheel" chance="0.60" />
 		</attachments>
 	</type>
-        <type name="ZAZ_965">
+	<type name="ZAZ_965">
 		<attachments chance="1.00">
 			<item name="CarRadiator" chance="0.25" />
 		</attachments>
@@ -7553,7 +7554,7 @@
 			<item name="ZAZ_965_wheel" chance="0.60" />
 		</attachments>
 	</type>
-        <type name="ZAZ_965_red">
+	<type name="ZAZ_965_red">
 		<attachments chance="1.00">
 			<item name="CarRadiator" chance="0.25" />
 		</attachments>
@@ -7597,7 +7598,7 @@
 			<item name="ZAZ_965_wheel" chance="0.60" />
 		</attachments>
 	</type>
-        <type name="ZAZ_965_green">
+	<type name="ZAZ_965_green">
 		<attachments chance="1.00">
 			<item name="CarRadiator" chance="0.25" />
 		</attachments>
@@ -7641,7 +7642,7 @@
 			<item name="ZAZ_965_wheel" chance="0.60" />
 		</attachments>
 	</type>
-        <type name="ZAZ_965_bk">
+	<type name="ZAZ_965_bk">
 		<attachments chance="1.00">
 			<item name="CarRadiator" chance="0.25" />
 		</attachments>
@@ -9984,6 +9985,584 @@
 		</attachments>
 		<attachments chance="1.00">
 			<item name="tractor_UMZ_RUS_WheelDouble" chance="0.60" />
+		</attachments>
+	</type>
+	<type name="patriot_2760_RUS">
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="patriot_2760_RUS_doors_driver" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="patriot_2760_RUS_doors_codriver" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="patriot_2760_RUS_doors_trunk" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="patriot_2760_RUS_doors_hood" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="patriot_2760_RUS_wheel" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="patriot_2760_RUS_wheel" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="patriot_2760_RUS_wheel" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="patriot_2760_RUS_wheel" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="patriot_2760_RUS_wheel" chance="0.60" />
+		</attachments>
+	</type>
+	<type name="patriot_2760_RUS_rust">
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="patriot_2760_RUS_doors_driver_rust" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="patriot_2760_RUS_doors_codriver_rust" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="patriot_2760_RUS_doors_trunk_rust" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="patriot_2760_RUS_doors_hood_rust" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="patriot_2760_RUS_wheel" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="patriot_2760_RUS_wheel" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="patriot_2760_RUS_wheel" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="patriot_2760_RUS_wheel" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="patriot_2760_RUS_wheel" chance="0.60" />
+		</attachments>
+	</type>
+	<type name="patriot_2760_RUS_black">
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="patriot_2760_RUS_doors_driver_black" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="patriot_2760_RUS_doors_codriver_black" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="patriot_2760_RUS_doors_trunk_black" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="patriot_2760_RUS_doors_hood_black" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="patriot_2760_RUS_wheel" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="patriot_2760_RUS_wheel" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="patriot_2760_RUS_wheel" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="patriot_2760_RUS_wheel" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="patriot_2760_RUS_wheel" chance="0.60" />
+		</attachments>
+	</type>
+	<type name="patriot_2760_RUS_rainbow">
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="patriot_2760_RUS_doors_driver_rainbow" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="patriot_2760_RUS_doors_codriver_rainbow" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="patriot_2760_RUS_doors_trunk_rainbow" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="patriot_2760_RUS_doors_hood_rainbow" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="patriot_2760_RUS_wheel" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="patriot_2760_RUS_wheel" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="patriot_2760_RUS_wheel" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="patriot_2760_RUS_wheel" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="patriot_2760_RUS_wheel" chance="0.60" />
+		</attachments>
+	</type>
+	<type name="patriot_2760_RUS_blue">
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="patriot_2760_RUS_doors_driver_blue" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="patriot_2760_RUS_doors_codriver_blue" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="patriot_2760_RUS_doors_trunk_blue" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="patriot_2760_RUS_doors_hood_blue" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="patriot_2760_RUS_wheel" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="patriot_2760_RUS_wheel" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="patriot_2760_RUS_wheel" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="patriot_2760_RUS_wheel" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="patriot_2760_RUS_wheel" chance="0.60" />
+		</attachments>
+	</type>
+	<type name="patriot_2760_RUS_black_white">
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="patriot_2760_RUS_doors_driver_black_white" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="patriot_2760_RUS_doors_codriver_black_white" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="patriot_2760_RUS_doors_trunk_black_white" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="patriot_2760_RUS_doors_hood_black_white" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="patriot_2760_RUS_wheel" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="patriot_2760_RUS_wheel" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="patriot_2760_RUS_wheel" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="patriot_2760_RUS_wheel" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="patriot_2760_RUS_wheel" chance="0.60" />
+		</attachments>
+	</type>
+	<type name="patriot_2760_RUS_white">
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="patriot_2760_RUS_doors_driver_white" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="patriot_2760_RUS_doors_codriver_white" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="patriot_2760_RUS_doors_trunk_white" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="patriot_2760_RUS_doors_hood_white" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="patriot_2760_RUS_wheel" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="patriot_2760_RUS_wheel" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="patriot_2760_RUS_wheel" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="patriot_2760_RUS_wheel" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="patriot_2760_RUS_wheel" chance="0.60" />
+		</attachments>
+	</type>
+	<type name="airboat_RUS">
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.25" />
+		</attachments>
+	</type>
+	<type name="dodge_power_wagonrus">
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="dodge_power_wagonrus_doors_driver" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="dodge_power_wagonrus_doors_codriver" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="dodge_power_wagonrus_doors_cargo1" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="dodge_power_wagonrus_doors_cargo2" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="dodge_power_wagonrus_doors_cargo3" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="dodge_power_wagonrus_doors_hood" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="dodge_power_wagonrus_doors_trunk" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="dodge_power_wagonrus_wheel" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="dodge_power_wagonrus_wheel" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="dodge_power_wagonrus_wheel" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="dodge_power_wagonrus_wheel" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="dodge_power_wagonrus_wheel" chance="0.60" />
+		</attachments>
+	</type>
+	<type name="dodge_power_wagonrus_yellow">
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="dodge_power_wagonrus_doors_driver_yellow" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="dodge_power_wagonrus_doors_codriver_yellow" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="dodge_power_wagonrus_doors_cargo1_yellow" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="dodge_power_wagonrus_doors_cargo2_yellow" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="dodge_power_wagonrus_doors_cargo3_yellow" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="dodge_power_wagonrus_doors_hood_yellow" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="dodge_power_wagonrus_doors_trunk_yellow" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="dodge_power_wagonrus_wheel" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="dodge_power_wagonrus_wheel" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="dodge_power_wagonrus_wheel" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="dodge_power_wagonrus_wheel" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="dodge_power_wagonrus_wheel" chance="0.60" />
+		</attachments>
+	</type>
+	<type name="dodge_power_wagonrus_white">
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="dodge_power_wagonrus_doors_driver_white" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="dodge_power_wagonrus_doors_codriver_white" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="dodge_power_wagonrus_doors_cargo1_white" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="dodge_power_wagonrus_doors_cargo2_white" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="dodge_power_wagonrus_doors_cargo3_white" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="dodge_power_wagonrus_doors_hood_white" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="dodge_power_wagonrus_doors_trunk_white" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="dodge_power_wagonrus_wheel" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="dodge_power_wagonrus_wheel" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="dodge_power_wagonrus_wheel" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="dodge_power_wagonrus_wheel" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="dodge_power_wagonrus_wheel" chance="0.60" />
+		</attachments>
+	</type>
+	<type name="dodge_power_wagonrus_black">
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="dodge_power_wagonrus_doors_driver_black" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="dodge_power_wagonrus_doors_codriver_black" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="dodge_power_wagonrus_doors_cargo1_black" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="dodge_power_wagonrus_doors_cargo2_black" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="dodge_power_wagonrus_doors_cargo3_black" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="dodge_power_wagonrus_doors_hood_black" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="dodge_power_wagonrus_doors_trunk_black" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="dodge_power_wagonrus_wheel" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="dodge_power_wagonrus_wheel" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="dodge_power_wagonrus_wheel" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="dodge_power_wagonrus_wheel" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="dodge_power_wagonrus_wheel" chance="0.60" />
+		</attachments>
+	</type>
+	<type name="dodge_power_wagonrus_red">
+		<attachments chance="1.00">
+			<item name="CarRadiator" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="SparkPlug" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.25" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="dodge_power_wagonrus_doors_driver_red" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="dodge_power_wagonrus_doors_codriver_red" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="dodge_power_wagonrus_doors_cargo1_red" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="dodge_power_wagonrus_doors_cargo2_red" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="dodge_power_wagonrus_doors_cargo3_red" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="dodge_power_wagonrus_doors_hood_red" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="dodge_power_wagonrus_doors_trunk_red" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="dodge_power_wagonrus_wheel" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="dodge_power_wagonrus_wheel" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="dodge_power_wagonrus_wheel" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="dodge_power_wagonrus_wheel" chance="0.60" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="dodge_power_wagonrus_wheel" chance="0.60" />
 		</attachments>
 	</type>
 </spawnabletypes>
