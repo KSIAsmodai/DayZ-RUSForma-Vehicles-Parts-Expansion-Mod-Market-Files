@@ -1,9 +1,9 @@
-This is everything you need to set up RUSForma Vehicles in Chernarus. All the types errors, non-existent vehicle additions & incorrect variant names (mostly from other RUSForma mods) that were in files I got in the wild have been fixed.
+This is everything you need to set up RUSForma Vehicles in Chernarus. All the types errors, non-existent vehicle additions & incorrect variant names (mostly from other RUSForma mods) that were in files I got in the wild have been fixed (to my knowledge, lol).
 
-NOTE: THE TRADER FILE IS A PARTS ONLY TRADER
+THIS IS RUSForma VEHICLES ONLY. This repository does not have RUSForma Historical Vehicles or RUSForma Motorcycles. I will add those eventually.
 
-I will eventually get to creating a Vehicle Trader, but if people use the stock types.xml & spawnabletypes.xml files that are out there - the nominals for spawning are astronomically high - so they should need parts more than vehicles, lol. 
-The nominals have been adjusted in the files I have posted here. I don't have a Trader that sells the vehicles on my servers.
+Note on Parts & Parts Trader:
+There are a shit ton of vehicle parts so I created a category for each vehicle that includes its variant parts. This way the Trader shows the vehicles in line item choices that you can open rather than loadidng 400,000 parts on your screen all at once, lol.
 
 Whenever you get files off the internet from some guy in a dirty old van with FREE CANDY written on the side of it, or if you edit the .xml & .json files yourself - run them through a validator before uploading them to your server
 
